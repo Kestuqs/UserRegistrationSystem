@@ -1,0 +1,12 @@
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Domain\bin\Debug\net8.0\UserRegistrationSystem.Domain.deps.json
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Domain\bin\Debug\net8.0\UserRegistrationSystem.Domain.dll
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Domain\bin\Debug\net8.0\UserRegistrationSystem.Domain.pdb
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Domain\obj\Debug\net8.0\UserRegistrationSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Domain\obj\Debug\net8.0\UserRegistrationSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Domain\obj\Debug\net8.0\UserRegistrationSystem.Domain.AssemblyInfo.cs
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Domain\obj\Debug\net8.0\UserRegistrationSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Domain\obj\Debug\net8.0\UserRegistrationSystem.Domain.dll
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Domain\obj\Debug\net8.0\refint\UserRegistrationSystem.Domain.dll
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Domain\obj\Debug\net8.0\UserRegistrationSystem.Domain.pdb
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Domain\obj\Debug\net8.0\ref\UserRegistrationSystem.Domain.dll
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Domain\obj\Debug\net8.0\UserRegistrationSystem.Domain.csproj.AssemblyReference.cache
