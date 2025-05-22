@@ -1,0 +1,17 @@
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\bin\Debug\net8.0\UserRegistrationSystem.Application.deps.json
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\bin\Debug\net8.0\UserRegistrationSystem.Application.dll
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\bin\Debug\net8.0\UserRegistrationSystem.Application.pdb
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\bin\Debug\net8.0\UserRegistrationSystem.Domain.dll
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\bin\Debug\net8.0\UserRegistrationSystem.Domain.pdb
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\obj\Debug\net8.0\UserRegistrationSystem.Application.csproj.AssemblyReference.cache
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\obj\Debug\net8.0\UserRegistrationSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\obj\Debug\net8.0\UserRegistrationSystem.Application.AssemblyInfoInputs.cache
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\obj\Debug\net8.0\UserRegistrationSystem.Application.AssemblyInfo.cs
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\obj\Debug\net8.0\UserRegistrationSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\obj\Debug\net8.0\UserRegi.182098EC.Up2Date
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\obj\Debug\net8.0\UserRegistrationSystem.Application.dll
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\obj\Debug\net8.0\refint\UserRegistrationSystem.Application.dll
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\obj\Debug\net8.0\UserRegistrationSystem.Application.pdb
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\obj\Debug\net8.0\ref\UserRegistrationSystem.Application.dll
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\bin\Debug\net8.0\UserRegistrationSystem.Infrastructure.dll
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Application\bin\Debug\net8.0\UserRegistrationSystem.Infrastructure.pdb
