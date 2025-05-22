@@ -1,0 +1,17 @@
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\bin\Debug\net8.0\UserRegistrationSystem.Infrastructure.deps.json
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\bin\Debug\net8.0\UserRegistrationSystem.Infrastructure.runtimeconfig.json
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\bin\Debug\net8.0\UserRegistrationSystem.Infrastructure.dll
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\bin\Debug\net8.0\UserRegistrationSystem.Infrastructure.pdb
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\bin\Debug\net8.0\UserRegistrationSystem.Domain.dll
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\bin\Debug\net8.0\UserRegistrationSystem.Domain.pdb
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\obj\Debug\net8.0\UserRegistrationSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\obj\Debug\net8.0\UserRegistrationSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\obj\Debug\net8.0\UserRegistrationSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\obj\Debug\net8.0\UserRegistrationSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\obj\Debug\net8.0\UserRegistrationSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\obj\Debug\net8.0\UserRegi.426AB726.Up2Date
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\obj\Debug\net8.0\UserRegistrationSystem.Infrastructure.dll
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\obj\Debug\net8.0\refint\UserRegistrationSystem.Infrastructure.dll
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\obj\Debug\net8.0\UserRegistrationSystem.Infrastructure.pdb
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\obj\Debug\net8.0\UserRegistrationSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\kestu\Desktop\UserRegistrationSystem\UserRegistrationSystem.Infrastructure\obj\Debug\net8.0\ref\UserRegistrationSystem.Infrastructure.dll
